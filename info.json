@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "4ebdf2dcc1755f04a9de4e226a6eb58105df8d23",
+    "author": "Tony Fischetti <tony.fischetti@gmail.com>",
+    "time": "2021-01-28 18:08:57",
+    "files": 2,
+    "merge": false,
+    "message": "expanded documentation for `is_uniq` (closes #105)\n"
+  },
+  "remote": "https://github.com/ropensci/assertr",
+  "pkg": "assertr"
+}
