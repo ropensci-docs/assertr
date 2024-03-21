@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "b4536a06bb0539c45e0c5539b452dc672445865f",
+    "author": "Tony Fischetti <tony.fischetti@gmail.com>",
+    "time": "2024-02-20 17:45:54",
+    "files": 1,
+    "merge": true,
+    "message": "Merge pull request #131 from tonyfischetti/maelle-patch-2\n\ndocs: add rOpenSci software peer-review badge"
+  },
+  "repo": "https://github.com/tonyfischetti/assertr",
+  "pkg": "assertr"
+}
