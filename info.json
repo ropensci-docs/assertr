@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "e484665dba582582faa343d97a09d4a097db3bb1",
+    "author": "Tony Fischetti <tony.fischetti@gmail.com>",
+    "time": "2024-04-11T23:36:15Z",
+    "files": 2,
+    "merge": true,
+    "message": "Merge pull request #132 from JoshuaSturm/print_description_assert_errors\n\nPrint description in assert error summary"
+  },
+  "repo": "https://github.com/tonyfischetti/assertr",
+  "pkg": "assertr",
+  "time": "2026-08-30T07:45:28Z"
+}
