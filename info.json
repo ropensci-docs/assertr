@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "785d564903698e36d7f3eaa484f67c35d9bff7bb",
+    "author": "Tony Fischetti <tony.fischetti@gmail.com>",
+    "time": "2026-11-12T19:33:10Z",
+    "files": 2,
+    "merge": false,
+    "message": "prep for next release\n"
+  },
+  "repo": "https://github.com/tonyfischetti/assertr",
+  "pkg": "assertr",
+  "time": "2026-11-12T20:08:17Z"
+}
